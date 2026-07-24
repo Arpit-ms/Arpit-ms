@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Arpit 👋
 
-<!--
-**Arpit-ms/Arpit-ms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded Software Engineer passionate about Firmware Development, Embedded C, ARM Cortex-M and Linux Device Drivers.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C
+- Embedded C
+- ARM Cortex-M
+- STM32
+- UART
+- SPI
+- I2C
+- GPIO
+- Interrupts
+- Linux Device Drivers
+- Git
+
+## Currently Learning
+
+- STM32 Bare Metal
+- RTOS
+- Linux Kernel
+- Firmware Architecture
+- Google Embedded Interview Preparation
+
+## Projects
+
+- STM32 UART Driver
+- GPIO Driver
+- Ring Buffer
+- Health Monitoring System
+- Linux Device Drivers
