@@ -1,33 +1,21 @@
 # Hi, I'm Arpit 👋
 
-Embedded Software Engineer passionate about Firmware Development, Embedded C, ARM Cortex-M and Linux Device Drivers.
+Analog I/O designer at NXP moving toward firmware. I design the register-level
+hardware that firmware programs — 16nm FinFET I/O IP, multi-voltage GPIO and
+core-power-down detection cells — and write bare-metal C on ARM Cortex-M.
 
 ## Tech Stack
+`C` `Embedded C` `ARM Cortex-M4` `STM32` `Bare-Metal / Register-Level`
+`Interrupts / NVIC` `UART` `I2C` `GPIO` `Linux Device Drivers` `Git`
+`Cadence Virtuoso` `Spectre` `ADE Explorer` `Maestro`
 
-- C
-- Embedded C
-- ARM Cortex-M
-- STM32
-- UART
-- SPI
-- I2C
-- GPIO
-- Interrupts
-- Linux Device Drivers
-- Git
+## Repositories
+- **[stm32f407-baremetal](https://github.com/Arpit-ms/stm32f407-baremetal)** —
+  GPIO, EXTI and UART drivers at register level, no vendor HAL. Written lab
+  notes for each.
 
-## Currently Learning
+## Currently building
+- SysTick, SPI and ADC drivers on the STM32F407
+- Python tooling for instrument control and characterization plots
 
-- STM32 Bare Metal
-- RTOS
-- Linux Kernel
-- Firmware Architecture
-- Google Embedded Interview Preparation
-
-## Projects
-
-- STM32 UART Driver
-- GPIO Driver
-- Ring Buffer
-- Health Monitoring System
-- Linux Device Drivers
+M.E. Embedded Systems, BITS Pilani · [LinkedIn](https://linkedin.com/in/arpitshukla14)
