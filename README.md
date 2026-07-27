@@ -11,8 +11,11 @@ core-power-down detection cells — and write bare-metal C on ARM Cortex-M.
 
 ## Repositories
 - **[stm32f407-baremetal](https://github.com/Arpit-ms/stm32f407-baremetal)** —
-  GPIO, EXTI and UART drivers at register level, no vendor HAL. Written lab
-  notes for each.
+  GPIO, EXTI and UART drivers at register level, no vendor HAL. Lab notes for each.
+- **[mcp23017-linux-driver](https://github.com/Arpit-ms/mcp23017-linux-driver)** —
+  Kernel character device driver for an I2C GPIO expander on Raspberry Pi 4.
+- **[c-interview-prep](https://github.com/Arpit-ms/c-interview-prep)** —
+  Hand-written libc primitives and firmware-oriented C problems.
 
 ## Currently building
 - SysTick, SPI and ADC drivers on the STM32F407
